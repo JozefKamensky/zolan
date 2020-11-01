@@ -5,8 +5,8 @@
 
     <div class="article__wrapper">
 
-        {% if post.image %}
-          <a href="{{post.url | prepend: site.baseurl}}" class="article__image" style="background-image: url({{site.baseurl}}/images/{{post.image}})">
+        {% if include.content.image %}
+          <a href="{{include.content.url | prepend: site.baseurl}}" class="article__image" style="background-image: url({{site.baseurl}}/images/{{include.content.image}})">
           </a>
         {% else %}
           {% assign without-image = 'article-without-image' %}
@@ -14,9 +14,9 @@
 
         <div class="article__content {{ without-image }}">
           <div class="article-tags">
-          {% if post.tags.size >= 1 %}
+          {% if include.content.tags.size >= 1 %}
             <div class="article-tags__box">
-              {% for tag in post.tags %}
+              {% for tag in include.content.tags %}
                 <a href="{{ site.baseurl }}/tag/{{ tag }}" class="article__tag">{{ tag }}</a>
               {% endfor %}
             </div>
@@ -25,17 +25,17 @@
           </div>
       
           <h2 class="article__title">
-            <a href="{{ post.url | prepend: site.baseurl }}">{{post.title}}</a>
+            <a href="{{ include.content.url | prepend: site.baseurl }}">{{include.content.title}}</a>
           </h2>
       
-          <p class="article__excerpt">{% if post.description %}{{ post.description }}{% else %}{{ post.content | strip_html | truncate: 185 }}{% endif %}</p>
+          <p class="article__excerpt">{% if include.content.description %}{{ include.content.description }}{% else %}{{ include.content.content | strip_html | truncate: 185 }}{% endif %}</p>
           
           <div class="article__footer">
             <div class="article__meta">
-              <span class="article__date"><time datetime="{{ post.date | date_to_xmlschema }}">{% assign date_format = site.minima.date_format | default: "%B %-d, %Y" %}{{ post.date | date: date_format }}</time></span>
+              <span class="article__date"><time datetime="{{ include.content.date | date_to_xmlschema }}">{% assign date_format = site.minima.date_format | default: "%B %-d, %Y" %}{{ include.content.date | date: date_format }}</time></span>
             </div>
 
-            <a href="{{post.url | prepend: site.baseurl}}" class="read-more">Keep Reading <i class="ion ion-ios-arrow-forward"></i></a>
+            <a href="{{include.content.url | prepend: site.baseurl}}" class="read-more">Keep Reading <i class="ion ion-ios-arrow-forward"></i></a>
           </div>
 
         </div>
