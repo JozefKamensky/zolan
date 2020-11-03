@@ -2,25 +2,41 @@
 layout: page
 title: About
 permalink: /about/
-image: 01.jpg
 ---
 
-Hi, my name is Alex Rodriguez. I like being at the center of events, being free and enjoying every moment. Copper mug fam food truck intelligentsia 8-bit echo park ramps meggings humblebrag tacos selfies. Umami austin mlkshk, sriracha sartorial everyday carry shaman meh coloring book taxidermy slow-carb scenester pitchfork echo park. Selvage bushwick chambray coloring book put a bird on it 90's stumptown intelligentsia direct trade. Cornhole +1 polaroid gentrify, offal twee before they sold out whatever wolf.
+Hi, my name is Jozef Kamensky. I am full stack developer striving to deliver solutions - not just some code - that help customers do their jobs more efficiently, comfortably and without losing their sanity. Beacuse after all, we do not program just for sake of programming (at least in our jobs), but to help our customers.
 
 ***
 
-#### Austin scenester...
-<small>2008 - 2018</small>
+#### Full stack developer at Instea
+<small>Jul 2019 - now</small>
 
-Offal post-ironic before they sold out mixtape you probably haven't heard of them. Pinterest roof party umami everyday carry street art. Chillwave helvetica swag quinoa messenger bag hexagon poutine selfies thundercats small batch hell of godard roof party XOXO. Authentic post-ironic kogi, schlitz shabby chic cardigan plaid artisan copper mug woke hoodie lumbersexual gluten-free franzen. Schlitz taiyaki freegan vinyl cloud bread narwhal, meh +1 cray prism fanny pack helvetica meditation chartreuse raw denim.
+As full stack developer at Instea, I took part in many projects using different technologies:
+* Various internal tools - React, Express, MongoDB, GraphQL
+* Augmented Reality for maps (prototype) - Android, OpenCV, Python
+* Management system for cleaning companies - React, Java + Spring, PostgreSQL, MQTT
+* Automation of internal processes - Google Apps Script, various API integrations
 
-#### Vinyl hexagon before...
-<small>2001 - 2008</small>
+#### Java developer at MMSystems
+<small>Jan 2018 - Jul 2019</small>
 
-Chillwave helvetica swag quinoa messenger bag hexagon poutine selfies thundercats small batch hell of godard roof party XOXO. Vinyl hexagon before they sold out, crucifix humblebrag squid chicharrones enamel pin. Iceland humblebrag farm-to-table, lyft pug tilde irony.
-Hot chicken shoreditch tousled listicle, actually meggings vape. Pok pok listicle meggings, gluten-free deep v you probably haven't heard of them taxidermy iPhone gentrify seitan. Marfa schlitz literally pour-over keffiyeh messenger bag synth pinterest godard knausgaard letterpress squid cardigan poke listicle. 
+At MMSystems, we used CUBA Framework (Java framework for enterprise web applications) together with Polymer (Google JavaScript library) to develop business web applications. Assigned to work on a project for big logistic company, I was in charge of design and development of real-time dashboard for monitoring all vehicles - their position, current drivers and ongoing/planned transportations.
 
-#### La croix you probably...
-<small>1995 - 2000</small>
+#### Intern at Continental AG
+<small>Jul 2018 - Sep 2018</small>
 
-Shoreditch activated charcoal iceland hexagon. Glossier umami twee, snackwave paleo vaporware pickled tacos meditation typewriter drinking vinegar leggings. Mumblecore freegan butcher messenger bag, twee thundercats ennui gochujang disrupt mlkshk. Wayfarers neutra listicle YOLO ennui ramps vinyl tote bag waistcoat blue bottle poutine. Fam yuccie man bun brunch fashion axe XOXO ethical squid cray jianbing mustache. Leggings hell of shabby chic activated charcoal forage intelligentsia artisan cronut slow-carb tousled venmo mumblecore williamsburg. Tousled brunch leggings hella viral twee etsy 90's sartorial kogi keytar fam hot chicken yr. Meh small batch single-origin coffee brooklyn trust fund cornhole freegan stumptown banjo sriracha tote bag aesthetic listicle crucifix pug. Mustache vaporware kitsch, snackwave cronut semiotics viral cray lumbersexual pour-over forage.
+As student, I applied for internship at Continental AG as tester. I worked in a team responsible for testing of electronic parking brake system. I learned basics of safety-critical systems testing and implemented unit tests for software written in C language.
+
+#### Junior developer at Asseco CE
+<small>Apr 2017 - Dec 2017</small>
+
+Junior programmer with various tasks:
+- testing - manual, unit, integration, GUI tests (JUnit, Selenium)
+- developing Java functionality and fixing bugs for back-end
+- maintenance, developing, fixing bugs for front-end (Angular)
+- writing documentation
+
+#### Trainee at Asseco CE
+<small>Oct 2016 - Mar 2017</small>
+
+Internship program where I worked with 5 other students to develop Android app for bank sector.
