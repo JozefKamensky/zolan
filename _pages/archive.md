@@ -4,6 +4,13 @@ title: Archive
 permalink: /archive/
 ---
 <div class="container">
+    <div class="row">
+        <div class="col col-12">
+            {% for tag in site.tags %}
+              <a href="{{ site.baseurl }}/tag/{{ tag[0] }}" class="archive-tag">{{ tag[0] | upcase }}</a>
+            {% endfor %}
+        </div>
+    </div>
 	<div class="row">
 		<div class="col col-12">
             {% for post in site.posts %}
