@@ -1,13 +1,23 @@
+.archive-tags {
+    display: flex;
+    margin-bottom: 20px;
+}
+
 .archive-tag {
-    background-color: $brand-color;
-    border-radius: 10px;
-    color: $white;
-    font-weight: 700;
-    padding: 4px 10px;
-    margin-right: 5px;
+    color: $brand-color;
+    font-weight: 600;
+    margin-right: 10px;
+    transition-duration: 0ms;
+    letter-spacing: 0.5px;
 }
 
 .archive-tag:hover {
-    padding: 6px 15px; 
-    color: $white;
+    font-weight: 900;
+}
+
+.archive-year {
+    margin-bottom: 20px;
+    a, a:link, a:visited, a:active {
+        color: #393e46;
+    }
 }
