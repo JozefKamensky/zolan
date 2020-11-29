@@ -2,7 +2,7 @@
 layout: post
 title:  "Vehicle routing problem"
 date:   2020-11-01 10:24:42 +0200
-image:  02.jpg
+image:  vrp-title.jpg
 ---
 
 Adipisci voluptate et fugiat est asperiores voluptas. Non officiis voluptatem vero consequatur qui. Autem quis ducimus deserunt saepe id velit eveniet. Quod esse sed alias porro.
@@ -14,3 +14,5 @@ Totam numquam sint optio assumenda sed repellendus blanditiis. Ut et saepe vel. 
 Dolorem corporis rem enim minus omnis. Tempore quia accusantium in expedita voluptatem neque et. Est consectetur fugiat et.
 
 Et tempore velit accusantium optio perferendis. Voluptatem unde iusto sit occaecati sunt qui laboriosam quasi. Accusamus pariatur cum saepe sed voluptatem temporibus accusantium doloribus. Non exercitationem et rerum. Aut quia autem laboriosam.
+
+Image by <a href="https://pixabay.com/users/andreas160578-2383079/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2138974">andreas160578</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2138974">Pixabay</a>

@@ -2,7 +2,7 @@
 layout: post
 title:  "Eye tracking data visualization"
 date:   2020-11-01 10:24:42 +0200
-image:  03.jpg
+image:  vizdat-title.jpg
 ---
 
 Adipisci voluptate et fugiat est asperiores voluptas. Non officiis voluptatem vero consequatur qui. Autem quis ducimus deserunt saepe id velit eveniet. Quod esse sed alias porro.
